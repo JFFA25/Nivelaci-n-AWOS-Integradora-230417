@@ -48,7 +48,13 @@ const Propiedad = db.define('propiedades', {
         type: DataTypes.BOOLEAN,
         allowNull: false,
         defaultValue: false
+    },
+    caducidad:{
+        type: DataTypes.DATE,
+        allowNull: false,
+        defaultValue: DataTypes.NOW
     }
+   
 
 
 });

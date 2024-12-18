@@ -31,12 +31,7 @@ block contenido
 
             div(class="grid grid-cols-1 lg:grid-cols-3 gap-5 mt-14")
                 each propiedad in casas
-                    include ./templates/card
-
-                    // Mostrar fecha de caducidad aquí
-                    if propiedad.caducidad
-                        p(class="text-gray-600 font-bold text-xs") Fecha de Caducidad
-                            span(class="text-gray-800 block text-lg")= new Date(propiedad.caducidad).toLocaleDateString('es-MX')
+                    include ./templates/card                   
                     
         section(class="py-5")
             h2(class="text-center text-4xl font-extrabold pt-10") Departamentos en venta

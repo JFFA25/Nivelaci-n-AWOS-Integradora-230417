@@ -1,1 +1,3 @@
 # Nivelacion-AWOS-Integradora-230417
+
+Nivelación-AWOS-Integradora-230417 es una actividad diseñada para ayudar a los estudiantes a nivelarse y alcanzar los requisitos necesarios para aprobar la materia. A través de ejercicios prácticos y evaluaciones integradoras, el proyecto permite poner en práctica los conocimientos adquiridos, reforzando conceptos clave y asegurando una comprensión sólida de los temas esenciales. Es la oportunidad perfecta para consolidar lo aprendido y cumplir con los estándares académicos necesarios para avanzar en la materia.

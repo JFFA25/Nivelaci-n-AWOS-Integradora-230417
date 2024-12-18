@@ -49,14 +49,10 @@ const Propiedad = db.define('propiedades', {
         allowNull: false,
         defaultValue: false
     },
-    caducidad:{
+    caducidad: {
         type: DataTypes.DATE,
-        allowNull: false,
-        defaultValue: DataTypes.NOW
+        allowNull: false 
     }
-   
-
-
 });
 
 export default Propiedad
